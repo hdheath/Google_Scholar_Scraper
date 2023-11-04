@@ -20,7 +20,7 @@ Google Scholar Scraper is an open-source software that provides an efficient and
 ## Data Flow from Example use-case 
 
 
-Shows the total number of papers analyzed and verified by the GSS
+Shows the total number of papers analyzed and verified by the GSS concerning the term "Neuromab"
 
 
 ![MasterHead](https://imgur.com/MzAexgw.png)
