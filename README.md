@@ -111,7 +111,7 @@ merge_master.py
 
 ![AVG PER year](https://imgur.com/AJgdHld.png?1)
 
-Word cloud of words derived from over 4000 published papers 
+Word cloud of words derived from over 6300 published papers 
 ![Word Cloud](https://imgur.com/wD9sSGJ.png?1)
 
 ## Author
